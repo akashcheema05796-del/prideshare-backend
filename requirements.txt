@@ -6,3 +6,5 @@ pydantic[email]
 python-multipart
 Pillow>=10.4.0
 google-generativeai
+PyPDF2
+pypdf
